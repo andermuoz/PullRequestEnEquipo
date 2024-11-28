@@ -9,7 +9,7 @@ public static void main (String[]args) {
 	System.out.println("GOAT OF GOATS 1");
 	//EASY WAY
 	
-}
+		}
 
 	//Hola ander
 
@@ -20,7 +20,7 @@ public static void main (String[]args) {
 
 //Ander guapo
 
-}
+	}
 
 //hola
 
