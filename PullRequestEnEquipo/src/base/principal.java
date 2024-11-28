@@ -6,6 +6,9 @@ public static void main (String[]args) {
 	
 	//hola :)
 	//
+	System.out.println("GOAT OF GOATS 1");
+	//EASY WAY
+	
 }
 
 }
